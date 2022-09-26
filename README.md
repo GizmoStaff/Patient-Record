@@ -12,7 +12,7 @@ Features:
 - Java
 - Spring
 - Maven
-- XAMPP 
+- MySQL 
 - JasperSoft Studio
 
 
